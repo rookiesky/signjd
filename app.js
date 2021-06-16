@@ -30,7 +30,7 @@ var OtherKey = ''; //第三账号或以上的Cookie json串数据, 以下样例�
    注4: 如果使用QX,Surge,Loon并获取Cookie后, 再重复填写以上选项, 则签到优先读取以上Cookie.
    注5: 如果使用Node.js, 需自行安装'request'模块. 例: npm install request -g
    注6: Node.js或JSbox环境下已配置数据持久化, 填写Cookie运行一次后, 后续更新脚本无需再次填写, 待Cookie失效后重新抓取填写即可.
-
+this
 *************************
 【 QX, Surge, Loon 说明 】 :
 *************************
